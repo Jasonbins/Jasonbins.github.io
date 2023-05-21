@@ -99,11 +99,13 @@
     <link href="http://example.com/2023/05/21/test-my-site/"/>
     <id>http://example.com/2023/05/21/test-my-site/</id>
     <published>2023-05-21T05:47:46.000Z</published>
-    <updated>2023-05-21T05:47:46.586Z</updated>
+    <updated>2023-05-21T08:02:30.198Z</updated>
     
     
     
     
+    
+    <category term="Jasonbins" scheme="http://example.com/tags/Jasonbins/"/>
     
   </entry>
   
