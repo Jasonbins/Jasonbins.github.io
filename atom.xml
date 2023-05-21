@@ -95,17 +95,27 @@
   </entry>
   
   <entry>
-    <title>test_my_site</title>
+    <title>A new test</title>
     <link href="http://example.com/2023/05/21/test-my-site/"/>
     <id>http://example.com/2023/05/21/test-my-site/</id>
     <published>2023-05-21T05:47:46.000Z</published>
-    <updated>2023-05-21T08:02:30.198Z</updated>
+    <updated>2023-05-21T08:14:03.711Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="C-课程安排"><a href="#C-课程安排" class="headerlink" title="C++课程安排"></a>C++课程安排</h1><ul><li>明确C++课程学习阶段以及课程内容</li></ul><table><thead><tr><th>阶段</th><th>内容</th><th>目标</th><th>案例</th></tr></thead><tbody><tr><td>第一阶段</td><td>C++基础语法入门</td><td>对C++有初步了解，能够有基础编程能力</td><td>通讯录管理系统</td></tr><tr><td>第二阶段</td><td>C++核心编程</td><td>介绍C++面向对象编程，为大型项目做铺垫</td><td>职工管理系统</td></tr><tr><td>第三阶段</td><td>C++提高编程</td><td>介绍C++泛型编程思想，以及STL的基本使用</td><td>演讲比赛系统</td></tr></tbody></table><ul><li>综合大案例：机房预约系统</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;C-课程安排&quot;&gt;&lt;a href=&quot;#C-课程安排&quot; class=&quot;headerlink&quot; title=&quot;C++课程安排&quot;&gt;&lt;/a&gt;C++课程安排&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;明确C++课程学习阶段以及课程内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;</summary>
+      
     
     
     
-    
-    
-    <category term="Jasonbins" scheme="http://example.com/tags/Jasonbins/"/>
     
   </entry>
   
